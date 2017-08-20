@@ -1,43 +1,43 @@
 data = {
-    'name': 'James Tiberius Kirk',
-    'nickname': 'Jim',
-    'image': 'kirk.jpg',
-    'greeting_msg': 'Hi, there!',
+    'name': 'Karin Onwong',
+    'nickname': 'oat',
+    'image': 'oat.jpg',
+    'greeting_msg': 'Uka Uka Uka Uka',
     'about': """
-        James Tiberius "Jim" Kirk was a male Human Starfleet officer in the 23rd century. He was arguably one of the most famous and highly decorated starship captains in the history of Starfleet. As the commanding officer of the Constitution-class starships USS Enterprise and USS Enterprise-A, Kirk served United Federation of Planets interests as an explorer, soldier, time-traveler, and diplomat.
+        	I'm Oat ngai. Oat a u konwwww?
     """,
     'work': {
-        'position': 'Starfleet officer',
-        'at': 'Starfleet'
+        'position': 'Cleaner',
+        'at': 'Yale'
     },
     'courses': [
         {
-            'name': 'How to survive in Kobayashi Maru mission',
-            'school': 'Starfleet Academy',
-            'url': 'kobayashimaru'
+            'name': 'Yak dai face mai laaaa',
+            'school': 'KMITL',
+            'url': 'https://www.facebook.com/oryzasativagg'
         },
         {
-            'name': 'Advanced Navigation',
-            'school': 'Starfleet Academy',
-            'url': 'adv-nav'
+            'name': 'yak do youtube paooo',
+            'school': 'KMITL',
+            'url': 'https://www.youtube.com'
         },
         {
-            'name': 'Basic Warp Design',
-            'school': 'Starfleet Academy',
-            'url': 'warp-design'
+            'name': 'mai mee a rai roeyy',
+            'school': 'KMITL',
+            'url': ''
         },
         {
-            'name': 'Klingon Physiology',
-            'school': 'Valcan State Institute of Technology',
-            'url': 'klingon-phys'
+            'name': 'aun nee kor wang paoo',
+            'school': 'KMITL',
+            'url': ''
         }
     ],
     'skills': [
-        'Leadership',
-        'Leadership',
-        'Human Language',
-        'Borg Language',
-        'Valcan Language',
-        'Sleeping'
+        'Sleeping',
+        'Eating',
+        'Walking',
+        'Running',
+        'Shaking',
+        'Jumping'
     ]
 }
